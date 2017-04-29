@@ -42,7 +42,7 @@
 
     <div class="container">
 
-      <form class="form-signin" role="form" action="pdo_loggin.php" method="post">
+      <form class="form-signin" role="form" action="check_login.php" method="post">
         <h2 class="form-signin-heading">Please sign in</h2>
         <label for="inputAcc" class="sr-only">Acc</label>
         <input type="Acc" name="acc" id="inputAcc" class="form-control" placeholder="Account" required autofocus>
